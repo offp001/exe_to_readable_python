@@ -1,0 +1,9 @@
+[project]
+name = "exetopy"
+version = "0.3.0"
+description = "PyInstaller executable extraction and Python bytecode source recovery"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.exetopy]
+entry-point = "exetopy.py"
