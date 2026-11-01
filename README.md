@@ -119,5 +119,5 @@ python3 -m unittest discover -s tests -v
 - Python disassembly reference: https://docs.python.org/3/library/dis.html
 
 <p align="center">
-  <sub>RoUtils by offp001</sub>
+  <sub>by offp001</sub>
 </p>
